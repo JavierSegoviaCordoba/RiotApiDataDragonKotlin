@@ -1,0 +1,3 @@
+package com.videumcorp.datadragonwrapperkotlin.datadragon.endpoints.cdn.championfulllist.dto
+
+class Datavalues
